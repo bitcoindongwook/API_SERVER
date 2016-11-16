@@ -9,7 +9,7 @@ var client = new bitcoin.Client({
   pass: '121212'
 });
 
-//사용자 등록 요청(POST111)
+//사용자 등록 요청(POST111232323)
 router.post('/', function(req, res) {
         //users[users.length] = req.body;//배열에추가
         //res.redirect('/users');//회원목록페이지로이동
